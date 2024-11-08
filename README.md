@@ -21,6 +21,7 @@
 - [6. Recursos Necessários](#6-recursos-necessários)
   - [6.1. Membros da equipe](#61-membros-da-equipe)
 - [7. Cronograma](#7-cronograma)
+  - [7.1. Gantt](#71-gantt)
 - [8. Resultados](#8-resultados)
   - [8.1. Resultados específicos](#81-resultados-específicos)
 - [9. Monitoramento e Avaliação](#9-monitoramento-e-avaliação)
@@ -185,6 +186,8 @@ Ferramentas de software necessárias para o desenvolvimento dos sistemas
 | Dezembro de 2025               | Reunião de retrospectiva do primeiro ano do projeto                                                 |
 
 
+## 7.1. Gantt
+
 
 ```mermaid
 gantt
@@ -224,6 +227,7 @@ Os resultados esperados deste projeto de extensão universitária são:
 3) Aplicação prática dos conhecimentos acadêmicos: Os acadêmicos envolvidos no projeto terão a oportunidade de aplicar os conhecimentos teóricos adquiridos em sala de aula na prática. Espera-se que eles possam utilizar as tecnologias modernas, ferramentas e metodologias de desenvolvimento de software aprendidas para desenvolver uma solução real e relevante. 
 4) Preparação para o mercado de trabalho: O projeto visa preparar os acadêmicos para o mercado de trabalho, proporcionando-lhes experiência prática no desenvolvimento de software web. Os resultados esperados incluem o aprimoramento das habilidades técnicas, trabalho em equipe, gerenciamento de projetos, resolução de problemas e comunicação, preparando os acadêmicos para enfrentar os desafios e demandas da indústria de tecnologia. 
 5) Impacto na comunidade acadêmica e local: Além dos resultados técnicos, espera-se que o projeto tenha um impacto positivo na comunidade acadêmica e local. Isso inclui a disseminação do conhecimento adquirido por meio de apresentações, workshops ou publicações, a colaboração com outras instituições ou organizações locais e o fortalecimento dos laços entre a universidade e a comunidade. Em resumo, os resultados esperados deste projeto incluem o desenvolvimento de um software web funcional, a solução de problemas específicos da comunidade local, a aplicação prática dos conhecimentos acadêmicos, a preparação para o mercado de trabalho e o impacto positivo na comunidade acadêmica e local.
+6) Publicação de artigos.
 
 ## 8.1. Resultados específicos
 
