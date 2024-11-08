@@ -6,6 +6,26 @@
 # Sumário
 
 
+- [projeto\_isis](#projeto_isis)
+- [Sumário](#sumário)
+- [Resumo:](#resumo)
+- [1. Introdução](#1-introdução)
+  - [1.1. Fundamentação teórica](#11-fundamentação-teórica)
+- [2. Justificativa](#2-justificativa)
+- [3. Objetivo geral](#3-objetivo-geral)
+  - [3.1. Objetivo específico](#31-objetivo-específico)
+- [4. Público-Alvo](#4-público-alvo)
+- [5. Metodologia](#5-metodologia)
+  - [5.1. Metodologia do projeto de extensão](#51-metodologia-do-projeto-de-extensão)
+  - [5.2. Metodologia para o projeto técnico (para os alunos)](#52-metodologia-para-o-projeto-técnico-para-os-alunos)
+- [6. Recursos Necessários](#6-recursos-necessários)
+  - [6.1. Membros da equipe](#61-membros-da-equipe)
+- [7. Cronograma](#7-cronograma)
+- [8. Resultados](#8-resultados)
+  - [8.1. Resultados específicos](#81-resultados-específicos)
+- [9. Monitoramento e Avaliação](#9-monitoramento-e-avaliação)
+- [10. Orçamento](#10-orçamento)
+- [11. Referências](#11-referências)
 
 
 ---
@@ -198,14 +218,19 @@ gantt
 ---
 # 8. Resultados
 
-Os resultados esperados deste projeto de extensão universitária são: 1) Desenvolvimento do software web online: Espera-se obter softwares funcionais, com todas as características e funcionalidades planejadas, que atenda às necessidades e demandas identificadas na sociedade local. Isso inclui a implementação de recursos específicos, uma interface intuitiva e uma arquitetura de software bem estruturada. 2) Solução para demandas locais: O software desenvolvido deve ser capaz de solucionar problemas específicos da comunidade local, oferecendo funcionalidades relevantes e adequadas. Os resultados esperados incluem a contribuição para a melhoria de processos, a resolução de desafios enfrentados pela comunidade e a disponibilização de serviços úteis e acessíveis por meio do software web. 3) Aplicação prática dos conhecimentos acadêmicos: Os acadêmicos envolvidos no projeto terão a oportunidade de aplicar os conhecimentos teóricos adquiridos em sala de aula na prática. Espera-se que eles possam utilizar as tecnologias modernas, ferramentas e metodologias de desenvolvimento de software aprendidas para desenvolver uma solução real e relevante. 4) Preparação para o mercado de trabalho: O projeto visa preparar os acadêmicos para o mercado de trabalho, proporcionando-lhes experiência prática no desenvolvimento de software web. Os resultados esperados incluem o aprimoramento das habilidades técnicas, trabalho em equipe, gerenciamento de projetos, resolução de problemas e comunicação, preparando os acadêmicos para enfrentar os desafios e demandas da indústria de tecnologia. 5) Impacto na comunidade acadêmica e local: Além dos resultados técnicos, espera-se que o projeto tenha um impacto positivo na comunidade acadêmica e local. Isso inclui a disseminação do conhecimento adquirido por meio de apresentações, workshops ou publicações, a colaboração com outras instituições ou organizações locais e o fortalecimento dos laços entre a universidade e a comunidade. Em resumo, os resultados esperados deste projeto incluem o desenvolvimento de um software web funcional, a solução de problemas específicos da comunidade local, a aplicação prática dos conhecimentos acadêmicos, a preparação para o mercado de trabalho e o impacto positivo na comunidade acadêmica e local.
+Os resultados esperados deste projeto de extensão universitária são: 
+1) Desenvolvimento do software web online: Espera-se obter softwares funcionais, com todas as características e funcionalidades planejadas, que atenda às necessidades e demandas identificadas na sociedade local. Isso inclui a implementação de recursos específicos, uma interface intuitiva e uma arquitetura de software bem estruturada. 
+2) Solução para demandas locais: O software desenvolvido deve ser capaz de solucionar problemas específicos da comunidade local, oferecendo funcionalidades relevantes e adequadas. Os resultados esperados incluem a contribuição para a melhoria de processos, a resolução de desafios enfrentados pela comunidade e a disponibilização de serviços úteis e acessíveis por meio do software web. 
+3) Aplicação prática dos conhecimentos acadêmicos: Os acadêmicos envolvidos no projeto terão a oportunidade de aplicar os conhecimentos teóricos adquiridos em sala de aula na prática. Espera-se que eles possam utilizar as tecnologias modernas, ferramentas e metodologias de desenvolvimento de software aprendidas para desenvolver uma solução real e relevante. 
+4) Preparação para o mercado de trabalho: O projeto visa preparar os acadêmicos para o mercado de trabalho, proporcionando-lhes experiência prática no desenvolvimento de software web. Os resultados esperados incluem o aprimoramento das habilidades técnicas, trabalho em equipe, gerenciamento de projetos, resolução de problemas e comunicação, preparando os acadêmicos para enfrentar os desafios e demandas da indústria de tecnologia. 
+5) Impacto na comunidade acadêmica e local: Além dos resultados técnicos, espera-se que o projeto tenha um impacto positivo na comunidade acadêmica e local. Isso inclui a disseminação do conhecimento adquirido por meio de apresentações, workshops ou publicações, a colaboração com outras instituições ou organizações locais e o fortalecimento dos laços entre a universidade e a comunidade. Em resumo, os resultados esperados deste projeto incluem o desenvolvimento de um software web funcional, a solução de problemas específicos da comunidade local, a aplicação prática dos conhecimentos acadêmicos, a preparação para o mercado de trabalho e o impacto positivo na comunidade acadêmica e local.
 
 ## 8.1. Resultados específicos
 
-Atendimento a pequenas empresas da região, proporcionando soluções de software específicas para seus processos.
-Capacitação prática dos alunos, contabilizando horas de extensão para cada participação.
-Publicação de artigos técnicos e acadêmicos que documentem os casos de sucesso e o impacto do projeto na comunidade local.
-Publicação de um artigo acadêmico sobre o projeto como um todo, detalhando sua metodologia e resultados.
+* Atendimento a pequenas empresas da região, proporcionando soluções de software específicas para seus processos.
+* Capacitação prática dos alunos, contabilizando horas de extensão para cada participação.
+* Publicação de artigos técnicos e acadêmicos que documentem os casos de sucesso e o impacto do projeto na comunidade local.
+* Publicação de um artigo acadêmico sobre o projeto como um todo, detalhando sua metodologia e resultados.
 
 ---
 # 9. Monitoramento e Avaliação
@@ -220,10 +245,16 @@ O projeto, a princípio, não prevê custos diretos, mas poderá buscar fontes d
 ---
 # 11. Referências
 
-Sommerville, I. (2016). Engenharia de software. Pearson Education Brasil. W3Schools. (Disponível em:
-https://www.w3schools.com/) Carlos, TERUEL, E. HTML 5 - Guia Prático. Editora Saraiva, 06/2014 Flanagan, D. (2016). The
-Definitive Guide: Activate Your Web Pages. O'Reilly Media. Lerdorf, R., Tatroe, K., & MacIntyre, P. (2021). Programming PHP:
-Creating Dynamic Web Pages. O'Reilly Media. Chinnathambi, S. (2020). Learning Vue.js 2: Learn how to build amazing and
-complex reactive web applications easily with Vue.js. Packt Publishing. Hoyos, C., & Bies, J. (2020). Fullstack React: The
-Complete Guide to ReactJS and Friends. Fullstack.io. DuBois, P. (2012). MySQL Cookbook: Solutions for Database Developers
-and Administrators. O'Reilly Media. Banks, J., Muller, P., & Tufo, H. (2018). PostGIS in Action. Manning Publications.
+Sommerville, I. (2016). Engenharia de software. Pearson Education Brasil. W3Schools. (Disponível em: https://www.w3schools.com/) 
+
+Carlos, TERUEL, E. HTML 5 - Guia Prático. Editora Saraiva, 06/2014 Flanagan, D. (2016). The Definitive Guide: Activate Your Web Pages. O'Reilly Media. 
+
+Lerdorf, R., Tatroe, K., & MacIntyre, P. (2021). Programming PHP: Creating Dynamic Web Pages. O'Reilly Media. 
+
+Chinnathambi, S. (2020). Learning Vue.js 2: Learn how to build amazing and complex reactive web applications easily with Vue.js. Packt Publishing. 
+
+Hoyos, C., & Bies, J. (2020). Fullstack React: The Complete Guide to ReactJS and Friends. Fullstack.io. 
+
+DuBois, P. (2012). MySQL Cookbook: Solutions for Database Developers and Administrators. O'Reilly Media. 
+
+Banks, J., Muller, P., & Tufo, H. (2018). PostGIS in Action. Manning Publications.
