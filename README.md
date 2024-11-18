@@ -60,24 +60,42 @@ O desenvolvimento do software web online para atender demandas locais é embasad
 ---
 # 2. Justificativa
    
-O projeto de extensão é essencial para fortalecer a atuação da universidade como agente de transformação social e econômica na região. Ao envolver estudantes de Sistemas de Informação no desenvolvimento de soluções digitais, ele possibilita uma abordagem prática do aprendizado, que vai além das fronteiras acadêmicas e alcança diretamente as necessidades de empresas locais. Essas empresas, muitas vezes com recursos limitados para investir em tecnologia, beneficiam-se de soluções acessíveis e personalizadas que otimizam seus processos e competitividade.
+~~O projeto de extensão é essencial para fortalecer a atuação da universidade como agente de transformação social e econômica na região. Ao envolver estudantes de Sistemas de Informação no desenvolvimento de soluções digitais, ele possibilita uma abordagem prática do aprendizado, que vai além das fronteiras acadêmicas e alcança diretamente as necessidades de empresas locais. Essas empresas, muitas vezes com recursos limitados para investir em tecnologia, beneficiam-se de soluções acessíveis e personalizadas que otimizam seus processos e competitividade.~~
 
-Além disso, o projeto proporciona aos alunos uma experiência única de imersão no ambiente profissional, onde são incentivados a exercer o papel de desenvolvedores de software em situações reais. Esse engajamento, sob a supervisão dos professores, permite que adquiram competências técnicas e habilidades socioemocionais, como trabalho em equipe, comunicação com o cliente e resolução de problemas. Esse processo, aliado ao compromisso social da universidade, promove um ciclo virtuoso: os alunos se qualificam para o mercado enquanto apoiam o desenvolvimento das pequenas empresas locais, criando um impacto positivo duradouro tanto para a economia regional quanto para a formação dos futuros profissionais.
+~~Além disso, o projeto proporciona aos alunos uma experiência única de imersão no ambiente profissional, onde são incentivados a exercer o papel de desenvolvedores de software em situações reais. Esse engajamento, sob a supervisão dos professores, permite que adquiram competências técnicas e habilidades socioemocionais, como trabalho em equipe, comunicação com o cliente e resolução de problemas. Esse processo, aliado ao compromisso social da universidade, promove um ciclo virtuoso: os alunos se qualificam para o mercado enquanto apoiam o desenvolvimento das pequenas empresas locais, criando um impacto positivo duradouro tanto para a economia regional quanto para a formação dos futuros profissionais.~~
+
+O projeto de extensão desempenha um papel fundamental no fortalecimento da atuação da universidade como agente de transformação social e econômica na região. Por meio da execução de atividades diretamente em empresas locais, o projeto amplia as fronteiras acadêmicas ao levar estudantes de Sistemas de Informação para vivenciar desafios reais no desenvolvimento de soluções digitais. Essas empresas, frequentemente limitadas em recursos para investir em tecnologia, beneficiam-se de soluções personalizadas e acessíveis que otimizam seus processos e aumentam sua competitividade.
+
+Essa abordagem prática proporciona aos alunos uma experiência imersiva no ambiente profissional, permitindo que atuem como desenvolvedores de software em cenários reais, sob a supervisão de professores. Ao lidar com demandas concretas das empresas, os estudantes desenvolvem competências técnicas e habilidades socioemocionais, como trabalho em equipe, comunicação com clientes e resolução de problemas. O engajamento nas empresas não apenas qualifica os alunos para o mercado, mas também reforça o compromisso social da universidade, criando um impacto positivo duradouro para o desenvolvimento regional e para a formação de futuros profissionais capacitados.
 
 ---
 # 3. Objetivo geral
 
-O objetivo geral deste projeto de extensão universitária é desenvolver softwares web online, utilizando tecnologias modernas, que atenda às demandas da sociedade local. O projeto busca proporcionar aos acadêmicos a oportunidade de aplicar o conhecimento adquirido em sala de aula e se prepararem para o mercado de trabalho. Ao desenvolver o software, pretende-se criar uma solução que aborde problemas específicos da comunidade local, oferecendo funcionalidades relevantes e adequadas às necessidades identificadas. O objetivo é desenvolver softwares web de qualidade, com uma interface intuitiva, desempenho otimizado e segurança robusta. Além disso, o projeto busca promover a formação e capacitação dos acadêmicos envolvidos, permitindo-lhes adquirir experiência prática no desenvolvimento de software web, bem como desenvolver habilidades de trabalho em equipe, gerenciamento de projetos e resolução de problemas.
+~~O objetivo geral deste projeto de extensão universitária é desenvolver softwares web online, utilizando tecnologias modernas, que atenda às demandas da sociedade local. O projeto busca proporcionar aos acadêmicos a oportunidade de aplicar o conhecimento adquirido em sala de aula e se prepararem para o mercado de trabalho. Ao desenvolver o software, pretende-se criar uma solução que aborde problemas específicos da comunidade local, oferecendo funcionalidades relevantes e adequadas às necessidades identificadas. O objetivo é desenvolver softwares web de qualidade, com uma interface intuitiva, desempenho otimizado e segurança robusta. Além disso, o projeto busca promover a formação e capacitação dos acadêmicos envolvidos, permitindo-lhes adquirir experiência prática no desenvolvimento de software web, bem como desenvolver habilidades de trabalho em equipe, gerenciamento de projetos e resolução de problemas.~~
+
+O objetivo geral deste projeto de extensão universitária é promover a interação entre a universidade e as empresas locais por meio do desenvolvimento de softwares web utilizando tecnologias modernas. O projeto visa capacitar os acadêmicos de Sistemas de Informação, permitindo-lhes aplicar o conhecimento adquirido em sala de aula na resolução de problemas reais enfrentados pelas empresas da cidade. Dessa forma, busca-se atender às demandas específicas da comunidade empresarial, oferecendo soluções personalizadas que contribuam para a modernização e eficiência dos processos locais.
+
+Além disso, o projeto se propõe a desenvolver softwares de alta qualidade, com interfaces intuitivas, desempenho otimizado e segurança robusta, ao mesmo tempo em que proporciona aos estudantes uma experiência prática enriquecedora. Essa vivência inclui o desenvolvimento de habilidades técnicas e socioemocionais, como trabalho em equipe, gestão de projetos e resolução de problemas, preparando-os para o mercado de trabalho enquanto reforça o compromisso social da universidade com o desenvolvimento regional.
 
 ## 3.1. Objetivo específico
 
-Desenvolver soluções de software pelos alunos para atender as necessidades específicas de empresas locais, promovendo a aplicação prática do conhecimento acadêmico e contribuindo para o fortalecimento do setor de tecnologia na região.
+~~Desenvolver soluções de software pelos alunos para atender as necessidades específicas de empresas locais, promovendo a aplicação prática do conhecimento acadêmico e contribuindo para o fortalecimento do setor de tecnologia na região.~~
 
+Desenvolver softwares personalizados que atendam às necessidades específicas das empresas locais, contribuindo para a melhoria de seus processos e resultados.
+Proporcionar aos estudantes uma experiência prática em projetos reais, fortalecendo suas competências técnicas em desenvolvimento de software web.
+Estimular o desenvolvimento de habilidades interpessoais, como comunicação com clientes e trabalho em equipe, preparando os acadêmicos para desafios do mercado.
+Fortalecer o setor de tecnologia da região, promovendo a integração entre a universidade e a comunidade empresarial.
 
 ---
 # 4. Público-Alvo
 
-Empresas locais de pequeno e médio porte, especialmente do setor de agronegócio e serviços, que poderão ser atendidas por alunos do curso de Sistemas de Informação.
+~~Empresas locais de pequeno e médio porte, especialmente do setor de agronegócio e serviços, que poderão ser atendidas por alunos do curso de Sistemas de Informação.~~
+
+O projeto de extensão tem como público-alvo micro e pequenas empresas da cidade de Sinop e região, com foco especial nos setores de comércio varejista, agronegócio e serviços. Esses segmentos representam uma parcela significativa da economia local, sendo que o comércio varejista corresponde a 16% do mercado da região e o agronegócio, 15%.[1]  
+
+Em Sinop, a maioria das empresas é composta por microempresas e microempreendedores individuais (MEIs), totalizando mais de 26 mil microempresas e 37 mil MEIs. Com uma população de 196.312 habitantes, conforme o censo de 2022, a região apresenta um público-alvo dinâmico e em constante crescimento, especialmente nos nichos de mercado voltados ao comércio e ao agronegócio, que são as principais ocupações da população local.[2]
+
+Por meio deste projeto, os alunos do curso de Sistemas de Informação terão a oportunidade de atender diretamente às necessidades dessas empresas, desenvolvendo soluções digitais personalizadas que contribuem para o fortalecimento de seus processos e para o desenvolvimento econômico da cidade e da região.
 
 ---
 # 5. Metodologia
@@ -260,3 +278,7 @@ Hoyos, C., & Bies, J. (2020). Fullstack React: The Complete Guide to ReactJS and
 DuBois, P. (2012). MySQL Cookbook: Solutions for Database Developers and Administrators. O'Reilly Media. 
 
 Banks, J., Muller, P., & Tufo, H. (2018). PostGIS in Action. Manning Publications.
+
+[1] https://datampe.sebrae.com.br/profile/geo/sinop-mt
+
+[2] https://cdlsinop.com.br/comunicacao/noticias/com-mais-de-53-mil-novas-empresas-sinop-fecha-ano-com-fortalecimento-economico/10430#:~:text=A%20maior%20cidade%20do%20Nort%C3%A3o,regi%C3%A3o%20Norte%20de%20Mato%20Grosso
