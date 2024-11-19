@@ -99,7 +99,7 @@ O projeto de extensão tem como público-alvo micro e pequenas empresas da cidad
 
 Em Sinop, a maioria das empresas é composta por microempresas e microempreendedores individuais (MEIs), totalizando mais de 26 mil microempresas e 37 mil MEIs. Com uma população de 196.312 habitantes, conforme o censo de 2022, a região apresenta um público-alvo dinâmico e em constante crescimento, especialmente nos nichos de mercado voltados ao comércio e ao agronegócio, que são as principais ocupações da população local.[2]
 
-Por meio deste projeto, os alunos do curso de Sistemas de Informação terão a oportunidade de atender diretamente às necessidades dessas empresas, desenvolvendo soluções digitais personalizadas que contribuem para o fortalecimento de seus processos e para o desenvolvimento econômico da cidade e da região.
+~~Por meio deste projeto, os alunos do curso de Sistemas de Informação terão a oportunidade de atender diretamente às necessidades dessas empresas, desenvolvendo soluções digitais personalizadas que contribuem para o fortalecimento de seus processos e para o desenvolvimento econômico da cidade e da região.~~
 
 ---
 # 5. Metodologia
