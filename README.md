@@ -279,6 +279,7 @@ gantt
 
 | Atividade | Carga horária | Data aproximada|
 |-----------|---------------|----------------|
+| Reunião com professores, apresentação do projeto | 2hs | |
 |5.2.1. Levantamento e Análise de Requisitos| 5hs | 24/Fev/2025 |
 |5.2.2. Definição do Escopo e Planejamento| 5hs | 10/Mar/2025 |
 |5.2.3. Design e Prototipação| 10hs | 17/Mar/2025 |
@@ -289,8 +290,7 @@ gantt
 |5.2.8. Avaliação e Encerramento| 5hs | 28/Abr/2025 |
 
 
-
-
+[Voltar ao sumário](#sumário)
 
 
 ---
