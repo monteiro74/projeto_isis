@@ -16,10 +16,12 @@
 - [5. Metodologia](#5-metodologia)
   - [5.1. Metodologia do projeto de extensão](#51-metodologia-do-projeto-de-extensão)
   - [5.2. Metodologia para o projeto técnico (para os alunos)](#52-metodologia-para-o-projeto-técnico-para-os-alunos)
+  - [5.3. Comparação (métodologia para os professores x metodologia para os alunos)](#53-comparação-métodologia-para-os-professores-x-metodologia-para-os-alunos)
 - [6. Recursos Necessários](#6-recursos-necessários)
   - [6.1. Membros da equipe](#61-membros-da-equipe)
 - [7. Cronograma](#7-cronograma)
   - [7.1. Gantt](#71-gantt)
+  - [7.2. Cronograma para os alunos](#72-cronograma-para-os-alunos)
 - [8. Resultados](#8-resultados)
   - [8.1. Resultados específicos](#81-resultados-específicos)
 - [9. Monitoramento e Avaliação](#9-monitoramento-e-avaliação)
@@ -186,6 +188,15 @@ O projeto de extensão universitária para o desenvolvimento de softwares web on
 
 5.2.8. Avaliação e Encerramento: Ao final do projeto, será realizada uma avaliação geral do trabalho desenvolvido, levando em consideração os objetivos alcançados, a satisfação dos usuários e a contribuição para a comunidade local. Será elaborado um relatório final, destacando os resultados obtidos e as possíveis recomendações para futuras iniciativas semelhantes. A metodologia adotada busca garantir um desenvolvimento eficiente, colaborativo e de qualidade do software web, além de promover o aprendizado e a formação dos acadêmicos envolvidos. A flexibilidade da abordagem ágil permite a adaptação a mudanças e a incorporação contínua de feedback dos usuários, garantindo a entrega de uma solução relevante e adequada às demandas locais.
 
+## 5.3. Comparação (métodologia para os professores x metodologia para os alunos)
+
+
+
+| Metodologia para os professores | Metodologia para os alunos |
+| ------------------------------- | ---------------------------|
+|5.1.1 Levantamento de Demandas <br> 5.1.2. Distribuição de Demandas <br> 5.1.2. Distribuição de Demandas <br> 5.1.3. Discussão Técnica com Professores <br> 5.1.4. Elaboração do Mini Projeto de Desenvolvimento <br> 5.1.5. Contabilização de Horas de Trabalho <br> 5.1.6. Reuniões de Revisão e Feedback <br> 5.1.7. Testes e Validação da Solução <br> 5.1.8. Documentação e Entrega Final <br> 5.1.9. Apresentação em Vídeo  <br> 5.1.10. Registro e Acompanhamento dos Projetos | <br> 5.2.1. Levantamento e Análise de Requisitos <br> 5.2.2. Definição do Escopo e Planejamento  <br> 5.2.3. Design e Prototipação <br> 5.2.4. Desenvolvimento do Software <br> 5.2.5. Testes e Depuração <br> 5.2.6. Implementação e Avaliação <br> 5.2.7. Documentação e Disseminação <br> 5.2.8. Avaliação e Encerramento |
+
+
 [Voltar ao sumário](#sumário)
 
 ---
@@ -261,6 +272,26 @@ gantt
 ```
 
 [Voltar ao sumário](#sumário)
+
+
+## 7.2. Cronograma para os alunos
+
+
+| Atividade | Carga horária | Data aproximada|
+|-----------|---------------|----------------|
+|5.2.1. Levantamento e Análise de Requisitos| 5hs | 24/Fev/2025 |
+|5.2.2. Definição do Escopo e Planejamento| 5hs | 10/Mar/2025 |
+|5.2.3. Design e Prototipação| 10hs | 17/Mar/2025 |
+|5.2.4. Desenvolvimento do Software| 10hs | 24/Mar/2025 |
+|5.2.5. Testes e Depuração| 10hs | 31/Mar/2025 |
+|5.2.6. Implementação e Avaliação| 10hs | 07/Abr/2025 |
+|5.2.7. Documentação e Disseminação| 10hs | 14/Abr/2025 |
+|5.2.8. Avaliação e Encerramento| 5hs | 28/Abr/2025 |
+
+
+
+
+
 
 ---
 # 8. Resultados
