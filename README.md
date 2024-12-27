@@ -283,15 +283,15 @@ gantt
 
 | Atividade | Carga horária <br> aproximada| Datas sugeridas|
 |-----------|---------------|----------------|
-| Reunião com professores, apresentação do projeto  | 5hs | 24 a 28/Fev/2025|
-|5.2.1. Levantamento e Análise de Requisitos        | 5hs | 10 a 15/Fev/2025 |
-|5.2.2. Definição do Escopo e Planejamento          | 5hs | 17 a 22/Mar/2025 |
-|5.2.3. Design e Prototipação                       | 10hs | 24 a 29/Mar/2025 |
-|5.2.4. Desenvolvimento do Software                 | 10hs | 31/Mar a 05/Abr/2025 |
-|5.2.5. Testes e Depuração                          | 10hs | 07 a 12/Mar/2025 |
-|5.2.6. Implementação e Avaliação                   | 10hs | 14 a 26/Abr/2025 |
-|5.2.7. Documentação e Disseminação                 | 10hs | 28/Abr a 03/Mai/2025 |
-|5.2.8. Avaliação e Encerramento                    | 5hs | 05 a 10/Mai/2025 |
+|1. Reunião com professores, apresentação do projeto  | 5hs   | 24 a 28/Fev/2025 |
+|2.Levantamento e Análise de Requisitos               | 5hs   | 10 a 15/Fev/2025 |
+|3. Definição do Escopo e Planejamento                | 5hs   | 17 a 22/Mar/2025 |
+|4. Design e Prototipação                             | 10hs  | 24 a 29/Mar/2025 |
+|5. Desenvolvimento do Software                       | 10hs  | 31/Mar a 05/Abr/2025 |
+|6. Testes e Depuração                                | 10hs  | 07 a 12/Mar/2025 |
+|7. Implementação e Avaliação                         | 10hs  | 14 a 26/Abr/2025 |
+|8. Documentação e Disseminação                       | 10hs  | 28/Abr a 03/Mai/2025 |
+|9. Avaliação e Encerramento                          | 5hs   | 05 a 10/Mai/2025 |
 
 Total: 70hs.
 
