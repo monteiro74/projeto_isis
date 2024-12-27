@@ -284,7 +284,7 @@ gantt
 | Atividade | Carga horária <br> aproximada| Datas sugeridas|
 |-----------|---------------|----------------|
 |1. Reunião com professores, apresentação do projeto  | 5hs   | 24 a 28/Fev/2025 |
-|2.Levantamento e Análise de Requisitos               | 5hs   | 10 a 15/Fev/2025 |
+|2. Levantamento e Análise de Requisitos              | 5hs   | 10 a 15/Fev/2025 |
 |3. Definição do Escopo e Planejamento                | 5hs   | 17 a 22/Mar/2025 |
 |4. Design e Prototipação                             | 10hs  | 24 a 29/Mar/2025 |
 |5. Desenvolvimento do Software                       | 10hs  | 31/Mar a 05/Abr/2025 |
