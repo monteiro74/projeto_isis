@@ -27,6 +27,8 @@
 - [11. Referências](#11-referências)
 
 
+
+
 ---
 # Resumo:
 
@@ -38,12 +40,16 @@ Através deste projeto, buscamos contribuir para a construção de um futuro mai
 
 Ao final deste projeto de extensão, espera-se que as necessidades das empresas locais sejam atendidas por meio do desenvolvimento de soluções de software específicas, com a implementação efetiva dessas ferramentas nas organizações da cidade. O objetivo é gerar benefícios tangíveis para as empresas da comunidade, demonstrando o potencial dos acadêmicos na resolução de problemas reais e no apoio ao crescimento econômico local. Como resultado, espera-se que os alunos adquiram um conjunto sólido de habilidades técnicas e competências profissionais, capacitando-os a enfrentar com sucesso os desafios do mercado de trabalho, ao mesmo tempo em que contribuem para o fortalecimento do ecossistema empresarial regional.
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 1. Introdução
 
 ~~Este projeto de extensão tem como objetivo aproximar a universidade da comunidade local, promovendo o atendimento de demandas empresariais, fornecendo experiência prática para os alunos e incentivando a troca de conhecimento entre alunos e professores. A cidade, inserida em um contexto de agronegócio e pequenas indústrias, possui necessidades específicas na área de desenvolvimento de software que podem ser atendidas pelo curso de Sistemas de Informação. Com isso, o projeto visa não apenas qualificar os alunos, mas também oferecer suporte tecnológico a pequenas empresas, gerando impacto social e econômico.~~
 
 Este projeto de extensão tem como objetivo aproximar a universidade das empresas da comunidade local, atendendo às demandas empresariais e promovendo o desenvolvimento de soluções tecnológicas específicas para esse público. Através da atuação de alunos do curso de Sistemas de Informação, o projeto busca oferecer suporte prático e inovador às pequenas empresas da cidade, que estão inseridas no contexto do agronegócio e das indústrias locais. Além de proporcionar uma valiosa experiência prática para os alunos, o projeto visa fomentar a troca de conhecimentos entre estudantes, professores e empresários, criando um ambiente de colaboração mútua. Ao atender às necessidades tecnológicas dessas empresas, o projeto contribui para a qualificação dos alunos e gera um impacto positivo no desenvolvimento social e econômico da região.
+
+[Voltar ao sumário](#sumário)
 
 ## 1.1. Fundamentação teórica
 
@@ -61,6 +67,8 @@ O desenvolvimento do software web online para atender demandas locais é embasad
  
 6) Colaboração e Trabalho em Equipe: A fundamentação teórica engloba conceitos de colaboração e trabalho em equipe, estimulando a cooperação entre os membros do projeto. Teorias relacionadas à comunicação efetiva, gestão de projetos e liderança são aplicadas para garantir que o trabalho em equipe seja produtivo, colaborativo e eficiente. Esses fundamentos teóricos fornecem a base para o desenvolvimento do projeto de extensão universitária, garantindo que as melhores práticas de desenvolvimento de software, tecnologias web modernas, análise de requisitos, usabilidade, responsabilidade social e colaboração sejam aplicadas de maneira adequada. Isso assegura a qualidade e a relevância do software web desenvolvido, bem como a formação dos acadêmicos envolvidos.
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 2. Justificativa
    
@@ -72,6 +80,8 @@ O projeto de extensão desempenha um papel fundamental no fortalecimento da atua
 
 Essa abordagem prática proporciona aos alunos uma experiência imersiva no ambiente profissional, permitindo que atuem como desenvolvedores de software em cenários reais, sob a supervisão de professores. Ao lidar com demandas concretas das empresas, os estudantes desenvolvem competências técnicas e habilidades socioemocionais, como trabalho em equipe, comunicação com clientes e resolução de problemas. O engajamento nas empresas não apenas qualifica os alunos para o mercado, mas também reforça o compromisso social da universidade, criando um impacto positivo duradouro para o desenvolvimento regional e para a formação de futuros profissionais capacitados.
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 3. Objetivo geral
 
@@ -81,6 +91,8 @@ O objetivo geral deste projeto de extensão universitária é promover a intera�
 
 Além disso, o projeto se propõe a desenvolver softwares de alta qualidade, com interfaces intuitivas, desempenho otimizado e segurança robusta, ao mesmo tempo em que proporciona aos estudantes uma experiência prática enriquecedora. Essa vivência inclui o desenvolvimento de habilidades técnicas e socioemocionais, como trabalho em equipe, gestão de projetos e resolução de problemas, preparando-os para o mercado de trabalho enquanto reforça o compromisso social da universidade com o desenvolvimento regional.
 
+[Voltar ao sumário](#sumário)
+
 ## 3.1. Objetivo específico
 
 ~~Desenvolver soluções de software pelos alunos para atender as necessidades específicas de empresas locais, promovendo a aplicação prática do conhecimento acadêmico e contribuindo para o fortalecimento do setor de tecnologia na região.~~
@@ -89,6 +101,8 @@ Desenvolver softwares personalizados que atendam às necessidades específicas d
 Proporcionar aos estudantes uma experiência prática em projetos reais, fortalecendo suas competências técnicas em desenvolvimento de software web.
 Estimular o desenvolvimento de habilidades interpessoais, como comunicação com clientes e trabalho em equipe, preparando os acadêmicos para desafios do mercado.
 Fortalecer o setor de tecnologia da região, promovendo a integração entre a universidade e a comunidade empresarial.
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 4. Público-Alvo
@@ -100,6 +114,8 @@ O projeto de extensão tem como público-alvo micro e pequenas empresas da cidad
 Em Sinop, a maioria das empresas é composta por microempresas e microempreendedores individuais (MEIs), totalizando mais de 26 mil microempresas e 37 mil MEIs. Com uma população de 196.312 habitantes, conforme o censo de 2022, a região apresenta um público-alvo dinâmico e em constante crescimento, especialmente nos nichos de mercado voltados ao comércio e ao agronegócio, que são as principais ocupações da população local.[2]
 
 ~~Por meio deste projeto, os alunos do curso de Sistemas de Informação terão a oportunidade de atender diretamente às necessidades dessas empresas, desenvolvendo soluções digitais personalizadas que contribuem para o fortalecimento de seus processos e para o desenvolvimento econômico da cidade e da região.~~
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 5. Metodologia
@@ -148,6 +164,8 @@ Como parte dos resultados, o aluno produzirá um vídeo curto, de até 5 minutos
 
 A equipe de professores deverá manter, em planilha própria, o registro de todas as demandas e projetos aprovados, em andamento e concluídos, incluindo dados das empresas locais atendidas, acompanhamento das horas de monitoria e orientações fornecidas aos alunos.
 
+[Voltar ao sumário](#sumário)
+
 ## 5.2. Metodologia para o projeto técnico (para os alunos)
    
 O projeto de extensão universitária para o desenvolvimento de softwares web online voltado para demandas locais será conduzido seguindo uma metodologia estruturada, que envolve as etapas a seguir: 
@@ -168,6 +186,7 @@ O projeto de extensão universitária para o desenvolvimento de softwares web on
 
 5.2.8. Avaliação e Encerramento: Ao final do projeto, será realizada uma avaliação geral do trabalho desenvolvido, levando em consideração os objetivos alcançados, a satisfação dos usuários e a contribuição para a comunidade local. Será elaborado um relatório final, destacando os resultados obtidos e as possíveis recomendações para futuras iniciativas semelhantes. A metodologia adotada busca garantir um desenvolvimento eficiente, colaborativo e de qualidade do software web, além de promover o aprendizado e a formação dos acadêmicos envolvidos. A flexibilidade da abordagem ágil permite a adaptação a mudanças e a incorporação contínua de feedback dos usuários, garantindo a entrega de uma solução relevante e adequada às demandas locais.
 
+[Voltar ao sumário](#sumário)
 
 ---
 # 6. Recursos Necessários
@@ -189,6 +208,8 @@ Ferramentas de software necessárias para o desenvolvimento dos sistemas
 |[MAICON APARECIDO SARTIN](http://lattes.cnpq.br/7738373302691883) | DOCENTE| COLABORADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
 |[TALES NEREU BOGONI](http://lattes.cnpq.br/6813786273390182)| DOCENTE| COLABORADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 7. Cronograma
 
@@ -205,6 +226,7 @@ Ferramentas de software necessárias para o desenvolvimento dos sistemas
 | Março - Novembro de 2025       | Desenvolvimento de sistemas e acompanhamento pelos alunos                                           |
 | Dezembro de 2025               | Reunião de retrospectiva do primeiro ano do projeto                                                 |
 
+[Voltar ao sumário](#sumário)
 
 ## 7.1. Gantt
 
@@ -238,6 +260,8 @@ gantt
 
 ```
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 8. Resultados
 
@@ -249,6 +273,8 @@ Os resultados esperados deste projeto de extensão universitária são:
 5) Impacto na comunidade acadêmica e local: Além dos resultados técnicos, espera-se que o projeto tenha um impacto positivo na comunidade acadêmica e local. Isso inclui a disseminação do conhecimento adquirido por meio de apresentações, workshops ou publicações, a colaboração com outras instituições ou organizações locais e o fortalecimento dos laços entre a universidade e a comunidade. Em resumo, os resultados esperados deste projeto incluem o desenvolvimento de um software web funcional, a solução de problemas específicos da comunidade local, a aplicação prática dos conhecimentos acadêmicos, a preparação para o mercado de trabalho e o impacto positivo na comunidade acadêmica e local.
 6) Publicação de artigos.
 
+[Voltar ao sumário](#sumário)
+
 ## 8.1. Resultados específicos
 
 * Atendimento a pequenas empresas da região, proporcionando soluções de software específicas para seus processos.
@@ -256,15 +282,21 @@ Os resultados esperados deste projeto de extensão universitária são:
 * Publicação de artigos técnicos e acadêmicos que documentem os casos de sucesso e o impacto do projeto na comunidade local.
 * Publicação de um artigo acadêmico sobre o projeto como um todo, detalhando sua metodologia e resultados.
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 9. Monitoramento e Avaliação
 
 O monitoramento do projeto será realizado por pelo menos dois professores, que orientarão os alunos em reuniões semanais de uma hora. A contabilização de horas será definida conforme a complexidade de cada demanda, garantindo a atribuição justa de horas de extensão. Reuniões de feedback com os alunos e clientes serão realizadas ao final de cada ciclo de desenvolvimento.
 
+[Voltar ao sumário](#sumário)
+
 ---
 # 10. Orçamento
 
 O projeto, a princípio, não prevê custos diretos, mas poderá buscar fontes de financiamento para aquisição de equipamentos, softwares específicos ou para custear publicações acadêmicas, caso seja viável.
+
+[Voltar ao sumário](#sumário)
 
 ---
 # 11. Referências
@@ -286,3 +318,6 @@ Banks, J., Muller, P., & Tufo, H. (2018). PostGIS in Action. Manning Publication
 [1] https://datampe.sebrae.com.br/profile/geo/sinop-mt
 
 [2] https://cdlsinop.com.br/comunicacao/noticias/com-mais-de-53-mil-novas-empresas-sinop-fecha-ano-com-fortalecimento-economico/10430#:~:text=A%20maior%20cidade%20do%20Nort%C3%A3o,regi%C3%A3o%20Norte%20de%20Mato%20Grosso
+
+[Voltar ao sumário](#sumário)
+
