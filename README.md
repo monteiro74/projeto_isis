@@ -287,13 +287,13 @@ gantt
 |2. Levantamento e Análise de Requisitos              | 5hs   | 10 a 15/Mar/2025 |
 |3. Definição do Escopo e Planejamento                | 5hs   | 17 a 22/Mar/2025 |
 |4. Design e Prototipação                             | 10hs  | 24 a 29/Mar/2025 |
-|5. Desenvolvimento do Software                       | 10hs  | 31/Mar a 05/Abr/2025 |
-|6. Testes e Depuração                                | 10hs  | 07 a 12/Mar/2025 |
-|7. Implementação e Avaliação                         | 10hs  | 14 a 26/Abr/2025 |
-|8. Documentação e Disseminação                       | 10hs  | 28/Abr a 03/Mai/2025 |
-|9. Avaliação e Encerramento                          | 5hs   | 05 a 10/Mai/2025 |
+|5. Desenvolvimento do Software                       | 40hs  | 31/Mar a 26/Abr/2025 |
+|6. Testes e Depuração                                | 10hs  | 28/Abr a 03/Mai/2025 |
+|7. Implementação e Avaliação                         | 10hs  | 05 a 10/Mai/2025 |
+|8. Documentação e Disseminação                       | 10hs  | 12 a 17/Mai/2025 |
+|9. Avaliação e Encerramento                          | 5hs   | 19 a 24/Mai/2025 |
 
-Total: 70hs.
+Total: 100hs.
 
 [Voltar ao sumário](#sumário)
 
