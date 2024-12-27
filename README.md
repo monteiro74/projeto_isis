@@ -102,6 +102,7 @@ Além disso, o projeto se propõe a desenvolver softwares de alta qualidade, com
 Desenvolver: a) softwares personalizados, b) documentação ou c) outros artefatos de software, que atendam às necessidades específicas das empresas locais, contribuindo para a melhoria de seus processos e resultados.
 Proporcionar aos estudantes uma experiência prática em projetos reais, fortalecendo suas competências técnicas em desenvolvimento de software web (principalmente) ou mobile e desktop.
 Estimular o desenvolvimento de habilidades interpessoais, como comunicação com clientes e trabalho em equipe, preparando os acadêmicos para desafios do mercado.
+Possibilitar ao aluno que experiência prática de desenvolvimento forneçam knowhow para escrita de artigos.
 Fortalecer o setor de tecnologia da região, promovendo a integração entre a universidade e a comunidade empresarial.
 
 [Voltar ao sumário](#sumário)
