@@ -1,10 +1,10 @@
-# **Projeto de extensão: ISIS - INOVAÇÃO EM SISTEMAS DE INFORMAÇÃO**
+# **Projeto de extensão: ISIS - Inovação em sistemas de informação**
 
 
 # Sumário
 
 
-- [**Projeto de extensão: ISIS - INOVAÇÃO EM SISTEMAS DE INFORMAÇÃO**](#projeto-de-extensão-isis---inovação-em-sistemas-de-informação)
+- [**Projeto de extensão: ISIS - Inovação em sistemas de informação**](#projeto-de-extensão-isis---inovação-em-sistemas-de-informação)
 - [Sumário](#sumário)
 - [Resumo:](#resumo)
 - [1. Introdução](#1-introdução)
@@ -199,6 +199,7 @@ O projeto de extensão universitária para o desenvolvimento de softwares web on
 
 [Voltar ao sumário](#sumário)
 
+
 ---
 # 6. Recursos Necessários
 
@@ -207,19 +208,21 @@ Sala de atendimento e orientação para alunos e empresas
 Computadores e notebooks para desenvolvimento
 Ferramentas de software necessárias para o desenvolvimento dos sistemas
 
+
 ## 6.1. Membros da equipe
 
 |Nome| Categoria | Função | Unidade | Início | Fim |
 |--  | --        | --     | --      | --     | -- |
-|[BENEVID FELIX DA SILVA](http://lattes.cnpq.br/8141409167616604) | DOCENTE |MEMBRO |SNP-FACET |01/12/2024 |30/11/2025|
-|[ELAINE ALVES DA ROCHA](http://lattes.cnpq.br/8255984506219057) | EXTERNO| COLABORADOR(A)| |01/12/2024| 30/11/2025|
-|[EMILIANO SOARES MONTEIRO](http://lattes.cnpq.br/5364435745021797) | DOCENTE| MEMBRO| SNP-FACET |01/12/2024| 30/11/2025|
-|[FRANCISCO SANCHES BANHOS FILHO](http://lattes.cnpq.br/1439145344156787) | DOCENTE| MEMBRO| SNP-FACET| 01/12/2024| 30/11/2025|
-|[IVAN LUIZ PEDROSO PIRES](http://lattes.cnpq.br/3741140002994653) | DOCENTE| COORDENADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
-|[MAICON APARECIDO SARTIN](http://lattes.cnpq.br/7738373302691883) | DOCENTE| COLABORADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
-|[TALES NEREU BOGONI](http://lattes.cnpq.br/6813786273390182)| DOCENTE| COLABORADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
+|1. [BENEVID FELIX DA SILVA](http://lattes.cnpq.br/8141409167616604) | DOCENTE |MEMBRO |SNP-FACET |01/12/2024 |30/11/2025|
+|2. [ELAINE ALVES DA ROCHA](http://lattes.cnpq.br/8255984506219057) | EXTERNO| COLABORADOR(A)| |01/12/2024| 30/11/2025|
+|3. [EMILIANO SOARES MONTEIRO](http://lattes.cnpq.br/5364435745021797) | DOCENTE| MEMBRO| SNP-FACET |01/12/2024| 30/11/2025|
+|4. [FRANCISCO SANCHES BANHOS FILHO](http://lattes.cnpq.br/1439145344156787) | DOCENTE| MEMBRO| SNP-FACET| 01/12/2024| 30/11/2025|
+|5. [IVAN LUIZ PEDROSO PIRES](http://lattes.cnpq.br/3741140002994653) | DOCENTE| COORDENADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
+|6. [MAICON APARECIDO SARTIN](http://lattes.cnpq.br/7738373302691883) | DOCENTE| COLABORADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
+|7. [TALES NEREU BOGONI](http://lattes.cnpq.br/6813786273390182)| DOCENTE| COLABORADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
 
 [Voltar ao sumário](#sumário)
+
 
 ---
 # 7. Cronograma
@@ -277,18 +280,19 @@ gantt
 ## 7.2. Cronograma para os alunos
 
 
-| Atividade | Carga horária | Data aproximada|
+| Atividade | Carga horária <br> aproximada| Datas sugeridas|
 |-----------|---------------|----------------|
-| Reunião com professores, apresentação do projeto | 2hs | |
-|5.2.1. Levantamento e Análise de Requisitos| 5hs | 24/Fev/2025 |
-|5.2.2. Definição do Escopo e Planejamento| 5hs | 10/Mar/2025 |
-|5.2.3. Design e Prototipação| 10hs | 17/Mar/2025 |
-|5.2.4. Desenvolvimento do Software| 10hs | 24/Mar/2025 |
-|5.2.5. Testes e Depuração| 10hs | 31/Mar/2025 |
-|5.2.6. Implementação e Avaliação| 10hs | 07/Abr/2025 |
-|5.2.7. Documentação e Disseminação| 10hs | 14/Abr/2025 |
-|5.2.8. Avaliação e Encerramento| 5hs | 28/Abr/2025 |
+| Reunião com professores, apresentação do projeto  | 5hs | 24 a 28/Fev/2025|
+|5.2.1. Levantamento e Análise de Requisitos        | 5hs | 10 a 15/Fev/2025 |
+|5.2.2. Definição do Escopo e Planejamento          | 5hs | 17 a 22/Mar/2025 |
+|5.2.3. Design e Prototipação                       | 10hs | 24 a 29/Mar/2025 |
+|5.2.4. Desenvolvimento do Software                 | 10hs | 31/Mar a 05/Abr/2025 |
+|5.2.5. Testes e Depuração                          | 10hs | 07 a 12/Mar/2025 |
+|5.2.6. Implementação e Avaliação                   | 10hs | 14 a 26/Abr/2025 |
+|5.2.7. Documentação e Disseminação                 | 10hs | 28/Abr a 03/Mai/2025 |
+|5.2.8. Avaliação e Encerramento                    | 5hs | 05 a 10/Mai/2025 |
 
+Total: 70hs.
 
 [Voltar ao sumário](#sumário)
 
