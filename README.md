@@ -27,7 +27,7 @@
 - [9. Monitoramento e Avaliação](#9-monitoramento-e-avaliação)
 - [10. Orçamento](#10-orçamento)
 - [11. Referências](#11-referências)
-  - [Licença](#licença)
+- [Licença](#licença)
 
 
 
@@ -360,6 +360,9 @@ Banks, J., Muller, P., & Tufo, H. (2018). PostGIS in Action. Manning Publication
 
 
 
-## Licença
+# Licença
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/monteiro74/projeto_isis">https://github.com/monteiro74/projeto_isis</a> by <span property="cc:attributionName">Professores Dr. Monteiro, Emiliano e Dr. Pires, Ivan</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+
+Link para a licença: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en
+
