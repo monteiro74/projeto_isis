@@ -11,24 +11,21 @@
   - [2.2. Resumo:](#22-resumo)
   - [2.3. Fundamentação Teórica:](#23-fundamentação-teórica)
   - [2.4. Metodologia:](#24-metodologia)
-    - [1. Levantamento e Análise de Requisitos Objetivo:](#1-levantamento-e-análise-de-requisitos-objetivo)
-    - [2. Definição do Escopo e Planejamento Objetivo:](#2-definição-do-escopo-e-planejamento-objetivo)
-    - [3. Design e Prototipação Objetivo:](#3-design-e-prototipação-objetivo)
-    - [4. Desenvolvimento do Software Objetivo:](#4-desenvolvimento-do-software-objetivo)
-    - [5. Testes e Depuração Objetivo:](#5-testes-e-depuração-objetivo)
-    - [6. Implementação e Avaliação Objetivo:](#6-implementação-e-avaliação-objetivo)
-    - [7. Documentação e Disseminação Objetivo:](#7-documentação-e-disseminação-objetivo)
-    - [8. Avaliação e Encerramento Objetivo:](#8-avaliação-e-encerramento-objetivo)
-  - [2.5. Referências:](#25-referências)
-  - [2.6. Objetivos Gerais:](#26-objetivos-gerais)
-  - [2.7. Resultados Esperados:](#27-resultados-esperados)
+    - [2.4.1. Levantamento e Análise de Requisitos Objetivo:](#241-levantamento-e-análise-de-requisitos-objetivo)
+    - [2.4.2. Definição do Escopo e Planejamento Objetivo:](#242-definição-do-escopo-e-planejamento-objetivo)
+    - [2.4.3. Design e Prototipação Objetivo:](#243-design-e-prototipação-objetivo)
+    - [2.4.4. Desenvolvimento do Software Objetivo:](#244-desenvolvimento-do-software-objetivo)
+    - [2.4.5. Testes e Depuração Objetivo:](#245-testes-e-depuração-objetivo)
+    - [2.4.6. Implementação e Avaliação Objetivo:](#246-implementação-e-avaliação-objetivo)
+    - [2.4.7. Documentação e Disseminação Objetivo:](#247-documentação-e-disseminação-objetivo)
+    - [2.4.8. Avaliação e Encerramento Objetivo:](#248-avaliação-e-encerramento-objetivo)
+  - [2.5. Objetivos Gerais:](#25-objetivos-gerais)
+  - [2.6. Resultados Esperados:](#26-resultados-esperados)
 - [3. Recursos Necessários](#3-recursos-necessários)
 - [4. Membros da equipe](#4-membros-da-equipe)
 - [5. Gantt](#5-gantt)
 - [6. Referências](#6-referências)
 - [7. Licença](#7-licença)
-
-
 
 
 
@@ -72,66 +69,62 @@ O desenvolvimento do software web online, desktop e protótipos, para atender de
 
 ## 2.4. Metodologia:
 
-### 1. Levantamento e Análise de Requisitos Objetivo: 
+### 2.4.1. Levantamento e Análise de Requisitos Objetivo: 
 
-Identificar as necessidades e demandas específicas das empresas ou da comunidade local. Ação sugerida: Os alunos realizarão visitas e entrevistas com stakeholders (empresas da comunitários e/ou seus usuários finais), com o objetivo de mapear os requisitos de necessidades de sistemas. Será incentivada a aplicação de levantamento de dados. Este processo estimula a articulação do ensino com a pesquisa ao explorar metodologias de análise de requisitos com base em estudos de caso reais. 
-
-[Voltar ao sumário](#sumário)
-
-### 2. Definição do Escopo e Planejamento Objetivo: 
-
-Delimitar claramente as funcionalidades, prazos e recursos necessários para o desenvolvimento do projeto. Ação sugerida: A partir da análise de requisitos, os alunos, sob a orientação dos professores, irão definir o escopo do projeto, especificando as funcionalidades essenciais para um futuro desenvolvimento. Será abordada a metodologia ágil de gestão de projetos. A prática de planejamento reforça o vínculo entre teoria e prática, preparando os alunos para cenários empresariais dinâmicos. 
+Identificar as necessidades e demandas específicas das empresas ou da comunidade local. Ação sugerida: Os alunos realizarão visitas e entrevistas com stakeholders (empresas da comunitários e/ou seus usuários finais), com o objetivo de mapear os requisitos de necessidades de sistemas. Será incentivada a aplicação de levantamento de dados. Este processo estimula a articulação do ensino com a pesquisa ao explorar metodologias de análise de requisitos com base em estudos de caso reais. [Template de documento para esta fase1](https://docs.google.com/document/d/1I4PHQ_e8KgdrPlYJ9c22zcWlX_XCnANPHMYeba0x0tE/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
 [Voltar ao sumário](#sumário)
 
-### 3. Design e Prototipação Objetivo: 
+### 2.4.2. Definição do Escopo e Planejamento Objetivo: 
+
+Delimitar claramente as funcionalidades, prazos e recursos necessários para o desenvolvimento do projeto. Ação sugerida: A partir da análise de requisitos, os alunos, sob a orientação dos professores, irão definir o escopo do projeto, especificando as funcionalidades essenciais para um futuro desenvolvimento. Será abordada a metodologia ágil de gestão de projetos. A prática de planejamento reforça o vínculo entre teoria e prática, preparando os alunos para cenários empresariais dinâmicos. [Template de documento para esta fase2](https://docs.google.com/document/d/1tHqZyelyZv3CMyMEzhCM1Sga-_9yeXsTsQF7LSWqCp4/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
+
+[Voltar ao sumário](#sumário)
+
+### 2.4.3. Design e Prototipação Objetivo: 
    
-Criar protótipos e de interface para testar ideias iniciais com os stakeholders. Ação sugerida: Nesta fase, os alunos irão desenvolver wireframes, protótipos interativos e/ou modelos de interface de usuário (UI) utilizando ferramentas de design . A prototipação será realizada em estreita colaboração com os stakeholders, incluindo feedback constante das empresas. Este processo permitirá que os alunos explorem abordagens de design e também coloquem em prática conceitos de pesquisa em interação humano-computador (HCI). Além disso, os alunos terão a oportunidade de realizar testes com usuários reais.
+Criar protótipos e de interface para testar ideias iniciais com os stakeholders. Ação sugerida: Nesta fase, os alunos irão desenvolver wireframes, protótipos interativos e/ou modelos de interface de usuário (UI) utilizando ferramentas de design . A prototipação será realizada em estreita colaboração com os stakeholders, incluindo feedback constante das empresas. Este processo permitirá que os alunos explorem abordagens de design e também coloquem em prática conceitos de pesquisa em interação humano-computador (HCI). Além disso, os alunos terão a oportunidade de realizar testes com usuários reais. [Template de documento para esta fase3](https://docs.google.com/document/d/1SfognOcoVHvfmOGwnsiBZxGAvgtfmGUkRoPIKPcJ70g/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
 [Voltar ao sumário](#sumário)
 
-### 4. Desenvolvimento do Software Objetivo: 
+### 2.4.4. Desenvolvimento do Software Objetivo: 
    
-Codificar as funcionalidades do sistema conforme os requisitos definidos e o design elaborado. Ação sugerida: A fase de desenvolvimento será realizada com o auxílio de ferramentas e linguagens de programação adequadas ao tipo de software ou protótipo (web, IoT, desktop). Os alunos irão aplicar conceitos de engenharia de software, como versionamento de código e boas práticas de desenvolvimento e documentação. Criando uma forte articulação entre teoria acadêmica e as demandas do mercado de trabalho. 
+Codificar as funcionalidades do sistema conforme os requisitos definidos e o design elaborado. Ação sugerida: A fase de desenvolvimento será realizada com o auxílio de ferramentas e linguagens de programação adequadas ao tipo de software ou protótipo (web, IoT, desktop). Os alunos irão aplicar conceitos de engenharia de software, como versionamento de código e boas práticas de desenvolvimento e documentação. Criando uma forte articulação entre teoria acadêmica e as demandas do mercado de trabalho. [Template de documento para esta fase4](https://docs.google.com/document/d/184Wjr0fXUd6VpLyIYv4XB-wdlhU6zZ3d2M3XlClj16Q/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
 [Voltar ao sumário](#sumário)
 
-### 5. Testes e Depuração Objetivo: 
+### 2.4.5. Testes e Depuração Objetivo: 
 
-Garantir que o software funcione corretamente e esteja livre de erros. Ação sugerida: Os alunos irão realizar uma série de testes, incluindo testes de funcionalidade, usabilidade e performance. Durante essa fase, será enfatizada a importância de testes no contexto empresarial, permitindo que os alunos articulem a teoria de testes com os desafios reais encontrados durante o desenvolvimento. 
-
-[Voltar ao sumário](#sumário)
-
-### 6. Implementação e Avaliação Objetivo:
-
-Colocar o software ou protótipo em funcionamento no ambiente real e coletar feedback. Ação sugerida: Após o desenvolvimento, os alunos participarão da implantação do sistema no ambiente real das empresas. Será realizado um monitoramento do desempenho do software, juntamente com a coleta de feedback dos usuários finais. Os alunos poderão aplicar surveys ou entrevistas, para verificar a solução. 
+Garantir que o software funcione corretamente e esteja livre de erros. Ação sugerida: Os alunos irão realizar uma série de testes, incluindo testes de funcionalidade, usabilidade e performance. Durante essa fase, será enfatizada a importância de testes no contexto empresarial, permitindo que os alunos articulem a teoria de testes com os desafios reais encontrados durante o desenvolvimento. [Template de documento para esta fase5](https://docs.google.com/document/d/1yLQutyplVFfS9loUE3LOZN0YuJ5qlHtxLA294wU4FPo/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
 [Voltar ao sumário](#sumário)
 
-### 7. Documentação e Disseminação Objetivo: 
+### 2.4.6. Implementação e Avaliação Objetivo:
 
-Documentar o processo e os resultados do projeto para disseminação do conhecimento gerado. Ação sugerida: A documentação do projeto será realizada pelos alunos, incluindo a descrição dos requisitos, processos de desenvolvimento, código-fonte, testes realizados, e feedback dos usuários. A disseminação de resultados servirá tanto para enriquecer o aprendizado dos alunos quanto para impactar positivamente as empresas e outros trabalhos acadêmicos futuros.
+Colocar o software ou protótipo em funcionamento no ambiente real e coletar feedback. Ação sugerida: Após o desenvolvimento, os alunos participarão da implantação do sistema no ambiente real das empresas. Será realizado um monitoramento do desempenho do software, juntamente com a coleta de feedback dos usuários finais. Os alunos poderão aplicar surveys ou entrevistas, para verificar a solução. [Template de documento para esta fase6](https://docs.google.com/document/d/1WcVH-NriPGIWRZPtxQBXvJhTPa0QmnxWphg3n8SJdE4/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
 [Voltar ao sumário](#sumário)
 
-### 8. Avaliação e Encerramento Objetivo: 
+### 2.4.7. Documentação e Disseminação Objetivo: 
+
+Documentar o processo e os resultados do projeto para disseminação do conhecimento gerado. Ação sugerida: A documentação do projeto será realizada pelos alunos, incluindo a descrição dos requisitos, processos de desenvolvimento, código-fonte, testes realizados, e feedback dos usuários. A disseminação de resultados servirá tanto para enriquecer o aprendizado dos alunos quanto para impactar positivamente as empresas e outros trabalhos acadêmicos futuros. [Template de documento para esta fase7](https://docs.google.com/document/d/10PecvJMAKHGmAXlR0-j0taxfr7B5AOrnJKAuarYkkQM/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
+
+[Voltar ao sumário](#sumário)
+
+### 2.4.8. Avaliação e Encerramento Objetivo: 
    
-Avaliar os resultados do projeto e refletir sobre o aprendizado adquirido. Ação sugerida: A avaliação final do projeto será realizada com reunião com os alunos, comentando cada dificuldade e avanço ao longo do projeto (simila a sprint de retrospectiva Scrum), promovendo um espaço de reflexão sobre o processo de desenvolvimento. O encerramento do projeto envolverá a análise do impacto gerado nas empresas e a possibilidade de continuidade ou expansão do projeto para novas demandas. 
+Avaliar os resultados do projeto e refletir sobre o aprendizado adquirido. Ação sugerida: A avaliação final do projeto será realizada com reunião com os alunos, comentando cada dificuldade e avanço ao longo do projeto (simila a sprint de retrospectiva Scrum), promovendo um espaço de reflexão sobre o processo de desenvolvimento. O encerramento do projeto envolverá a análise do impacto gerado nas empresas e a possibilidade de continuidade ou expansão do projeto para novas demandas. [Template de documento para esta fase8](https://docs.google.com/document/d/1lKbKz01zjxNOd3hR3yHfLnxYMAdZ-IcuE9JmY_a7vnQ/edit?usp=sharing). Quando aprovado, envie seu relatório de final de fase neste [link](https://forms.gle/SahCyA3CFCAPDp1x7).
 
 [Voltar ao sumário](#sumário)
 
-## 2.5. Referências:
->> Monteiro, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760 >> Sommerville, I. (2016). Engenharia de software. Pearson Education Brasil. >> Hoyos, C., & Bies, J. (2020). Fullstack React: The Complete Guide to ReactJS and Friends. Fullstack.io. >> DuBois, P. (2012). MySQL Cookbook: Solutions for Database Developers and Administrators. O'Reilly Media. >> RESSMAN, Roger S.. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011.
 
-[Voltar ao sumário](#sumário)
-
-## 2.6. Objetivos Gerais:
+## 2.5. Objetivos Gerais:
 
 O objetivo geral deste projeto de extensão universitária é promover a interação entre a universidade e as empresas locais por meio do desenvolvimento de softwares web, IoT, desktop e protótipos utilizando tecnologias modernas. O projeto visa capacitar os acadêmicos de Sistemas de Informação, permitindo-lhes aplicar o conhecimento adquirido em sala de aula na resolução de problemas reais enfrentados pelas empresas da cidade. Dessa forma, busca-se atender às demandas específicas da comunidade empresarial, oferecendo soluções personalizadas que contribuam para a modernização e eficiência dos processos locais. Além disso, o projeto se propõe a desenvolver softwares de alta qualidade, com interfaces intuitivas, desempenho otimizado e segurança robusta, ao mesmo tempo em que proporciona aos estudantes uma experiência prática enriquecedora. Essa vivência inclui o desenvolvimento de habilidades técnicas e socioemocionais, como trabalho em equipe, gestão de projetos e resolução de problemas, preparando-os para o mercado de trabalho enquanto reforça o compromisso social da universidade com o desenvolvimento regional.
 
 [Voltar ao sumário](#sumário)
 
-## 2.7. Resultados Esperados:
+## 2.6. Resultados Esperados:
 
 Alunos capacitados nas atividades relacionadas com engenharia de software, banco de dados e desenvolvimento de sistemas (dentre outras: atendimento as demandas locais da comunidade, preparação para o mercado de trabalho pela vivência com o processo de desenvolvimento em empresas), possibilidade de publicação de artigo relatando experiências inclusive de registro de software. Empresas e suas necessidades atendidas pelos alunos.
 
@@ -140,22 +133,22 @@ Alunos capacitados nas atividades relacionadas com engenharia de software, banco
 ---
 # 3. Recursos Necessários
 
-Professores orientadores do curso de Sistemas de Informação
-Sala de atendimento e orientação para alunos e empresas
-Computadores e notebooks para desenvolvimento
-Ferramentas de software necessárias para o desenvolvimento dos sistemas
+* Professores orientadores do curso de Sistemas de Informação
+* Sala de atendimento e orientação para alunos e empresas
+* Computadores e notebooks para desenvolvimento
+* Ferramentas de software necessárias para o desenvolvimento dos sistemas
 
 [Voltar ao sumário](#sumário)
 
 ---
 # 4. Membros da equipe
 
-|Nome| Categoria | Função | Unidade | Início | Fim |
-|--  | --        | --     | --      | --     | -- |
-|1. [BENEVID FELIX DA SILVA](http://lattes.cnpq.br/8141409167616604) | DOCENTE |MEMBRO |SNP-FACET |01/12/2024 |30/11/2025|
-|2. [EMILIANO SOARES MONTEIRO](http://lattes.cnpq.br/5364435745021797) | DOCENTE| MEMBRO| SNP-FACET |01/12/2024| 30/11/2025|
-|3. [FRANCISCO SANCHES BANHOS FILHO](http://lattes.cnpq.br/1439145344156787) | DOCENTE| MEMBRO| SNP-FACET| 01/12/2024| 30/11/2025|
-|4. [IVAN LUIZ PEDROSO PIRES](http://lattes.cnpq.br/3741140002994653) | DOCENTE| COORDENADOR(A)| SNP-FACET| 01/12/2024| 30/11/2025|
+|Nome| Categoria | Função | Unidade |
+|--  | --        | --     | --      |
+|1. [BENEVID FELIX DA SILVA](http://lattes.cnpq.br/8141409167616604)        | DOCENTE |MEMBRO |SNP-FACET |
+|2. [EMILIANO SOARES MONTEIRO](http://lattes.cnpq.br/5364435745021797)      | DOCENTE| COORDENADOR| SNP-FACET |
+|3. [FRANCISCO SANCHES BANHOS FILHO](http://lattes.cnpq.br/1439145344156787)| DOCENTE| MEMBRO| SNP-FACET|
+|4. [IVAN LUIZ PEDROSO PIRES](http://lattes.cnpq.br/3741140002994653)       | DOCENTE| MEMBRO| SNP-FACET|
 
 [Voltar ao sumário](#sumário)
 
@@ -177,7 +170,6 @@ gantt
     Documentação                       :a8, 2025-12-08, 2026-01-16
     Avaliação e Encerramento           :a9, 2026-01-20, 2026-04-07
 
-
 ```
 
 teste
@@ -196,15 +188,15 @@ Lerdorf, R., Tatroe, K., & MacIntyre, P. (2021). Programming PHP: Creating Dynam
 
 Chinnathambi, S. (2020). Learning Vue.js 2: Learn how to build amazing and complex reactive web applications easily with Vue.js. Packt Publishing. 
 
-Hoyos, C., & Bies, J. (2020). Fullstack React: The Complete Guide to ReactJS and Friends. Fullstack.io. 
+HOYOS, C., & Bies, J. (2020). Fullstack React: The Complete Guide to ReactJS and Friends. Fullstack.io. 
 
-DuBois, P. (2012). MySQL Cookbook: Solutions for Database Developers and Administrators. O'Reilly Media. 
+DUBOIS, P. (2012). MySQL Cookbook: Solutions for Database Developers and Administrators. O'Reilly Media. 
 
-Banks, J., Muller, P., & Tufo, H. (2018). PostGIS in Action. Manning Publications.
+BANKS, J., Muller, P., & Tufo, H. (2018). PostGIS in Action. Manning Publications.
 
-[1] https://datampe.sebrae.com.br/profile/geo/sinop-mt
+MONTEIRO, Emiliano Soares. Projeto de sistemas e bancos de dados. Rio de Janeiro: Brasport, 2004. 321. ISBN: 8574521760 
 
-[2] https://cdlsinop.com.br/comunicacao/noticias/com-mais-de-53-mil-novas-empresas-sinop-fecha-ano-com-fortalecimento-economico/10430#:~:text=A%20maior%20cidade%20do%20Nort%C3%A3o,regi%C3%A3o%20Norte%20de%20Mato%20Grosso
+PRESSMAN, Roger S. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED, 2011.
 
 [Voltar ao sumário](#sumário)
 
