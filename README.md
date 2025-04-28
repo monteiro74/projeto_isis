@@ -161,14 +161,22 @@ Ferramentas de software necessárias para o desenvolvimento dos sistemas
 
 # 5. Gantt
 
+
 ```mermaid
-usecaseDiagram
-  actor Cliente
-  actor Administrador
-  Cliente --> (Realizar_pedido)
-  Cliente --> (Acompanhar_pedido)
-  Administrador --> (Cadastrar_produto)
-  Administrador --> (Gerenciar_usuários)
+gantt
+    title Cronograma de Atividades
+    dateFormat  YYYY-MM-DD
+    section Atividades
+    Reunião com professores          :done,   a1, 2025-04-07, 2025-04-11
+    Levantamento e Análise de Requisitos :active, a2, 2025-04-14, 2025-05-02
+    Definição do Escopo e Planejamento :a3, 2025-05-05, 2025-05-23
+    Design e Prototipação             :a4, 2025-05-26, 2025-06-27
+    Desenvolvimento do Software       :a5, 2025-08-11, 2025-10-10
+    Testes e Depuração                 :a6, 2025-10-13, 2025-11-14
+    Implementação e Avaliação          :a7, 2025-11-17, 2025-12-05
+    Documentação                       :a8, 2025-12-08, 2026-01-16
+    Avaliação e Encerramento           :a9, 2026-01-20, 2026-04-07
+
 
 ```
 
