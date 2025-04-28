@@ -230,9 +230,9 @@ Instruções em vídeo: [Passo a passo, como fazer a inscrição no projeto pelo
 
 Passo a Passo:
 
-```
+
 Sigaa --> Extensão --> Inscrição On-line para Creditação de Extensão --> Buscar por Ações de Extensão --> Título da Ação: ISIS --> clique no ícone Participar da Seleção de Bolsas de Creditação --> Inscrever-se para Creditação
-```
+
 
 
 ---
