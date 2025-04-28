@@ -24,8 +24,11 @@
 - [3. Recursos Necessários](#3-recursos-necessários)
 - [4. Membros da equipe](#4-membros-da-equipe)
 - [5. Gantt](#5-gantt)
-- [6. Referências](#6-referências)
-- [7. Licença](#7-licença)
+- [6. Plano de trabalho](#6-plano-de-trabalho)
+- [7. Processo de inscrição](#7-processo-de-inscrição)
+- [8. Agendamento de reunião](#8-agendamento-de-reunião)
+- [9. Referências](#9-referências)
+- [10. Licença](#10-licença)
 
 
 
@@ -172,13 +175,67 @@ gantt
 
 ```
 
-teste
-
 [Voltar ao sumário](#sumário)
+
+---
+# 6. Plano de trabalho
+
+O aluno deverá apresentar um plano de trabalho contendo:
+
+```
+Título da Ação: (exemplo: 1. 2. Levantamento e Análise de Requisitos)
+
+Empresa/Instituição:
+
+Responsável da Empresa:
+
+Nome do Acadêmico:
+
+Objetivo da Ação:
+
+Atividades a Serem Desenvolvidas: (exemplo... na fase: uma das fases relacionadas no cronograma abaixo)
+
+1. [Descrição da atividade 1]
+
+2. [Descrição da atividade 2]
+
+3. [Descrição da atividade 3]
+
+4. [Descrição da atividade 4]
+
+5. [Descrição da atividade 5]
+
+Cronograma das Atividades:
+```
+
+OBSERVAÇÃO: quando o aluno elaborar seu plano de atividade deve levar em consideração até 12hs por semana.
 
 
 ---
-# 6. Referências
+# 7. Processo de inscrição
+
+PROCESSO DE INSCRIÇÃO:
+
+1. Converse pessoalmente com um membro do projeto (coordenador e/ou professor).
+
+2. Faça a inscrição via [SIGAA](https://sigaa.unemat.br/sigaa).
+
+3. Elabore o Plano de Trabalho e encaminhe ao professor para aprovação (use o formulário abaixo).
+
+4. Após revisão, obtenha a assinatura do responsável pela empresa e devolva o plano assinado.
+
+5. Inicie as atividades após a aprovação.
+
+
+---
+# 8. Agendamento de reunião
+
+Agendamento de reunião e envio de ideia inicial:
+
+Use este [formulário](https://forms.gle/WmozF1kawhHPkPzi8) para enviar o plano de trabalho e marcar uma reunião com seu orientador.
+
+---
+# 9. Referências
 
 Sommerville, I. (2016). Engenharia de software. Pearson Education Brasil. W3Schools. (Disponível em: https://www.w3schools.com/) 
 
@@ -201,7 +258,7 @@ PRESSMAN, Roger S. Engenharia de Software. 6ed. São Paulo: MCGRAW HILL - ARTMED
 [Voltar ao sumário](#sumário)
 
 ---
-# 7. Licença
+# 10. Licença
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/monteiro74/projeto_isis">https://github.com/monteiro74/projeto_isis</a> by <span property="cc:attributionName">Professores Dr. Monteiro, Emiliano e Dr. Pires, Ivan</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
 
