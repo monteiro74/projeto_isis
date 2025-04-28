@@ -162,32 +162,17 @@ Ferramentas de software necessárias para o desenvolvimento dos sistemas
 # 5. Gantt
 
 ```mermaid
-gantt
-    title Cronograma do Projeto de Extensão Universitária
-    dateFormat  YYYY-MM-DD
-    section Dezembro de 2024
-    Lançamento e divulgação do projeto entre equipe e alunos                     :des2024, 2024-12-01, 15d
-    Apresentação do projeto para os professores do curso                         :2024-12-10, 5d
-    Submissão do projeto para a coordenação de extensão                          :2024-12-15, 5d
-    
-    section Janeiro a Fevereiro de 2025
-    Divulgação do projeto via mídias sociais                                     :2025-01-01, 45d
-    Desenvolvimento de página do projeto (no site institucional)                 :2025-01-10, 20d
-    
-    section Fevereiro de 2025
-    Reuniões entre professores e alunos para discutir viabilidade de projetos    :2025-02-15, 15d
-    
-    section Março de 2025
-    Registro de horas de extensão no sistema acadêmico                           :2025-03-01, 7d
-    Início do registro das atividades em planilhas pelos professores             :2025-03-08, 7d
-    
-    section Março a Novembro de 2025
-    Desenvolvimento de sistemas e acompanhamento pelos alunos                    :2025-03-15, 9m
-    
-    section Dezembro de 2025
-    Reunião de retrospectiva do primeiro ano do projeto                          :2025-12-01, 10d
+usecaseDiagram
+  actor Cliente
+  actor Administrador
+  Cliente --> (Realizar_pedido)
+  Cliente --> (Acompanhar_pedido)
+  Administrador --> (Cadastrar_produto)
+  Administrador --> (Gerenciar_usuários)
 
 ```
+
+teste
 
 [Voltar ao sumário](#sumário)
 
