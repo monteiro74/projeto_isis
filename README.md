@@ -226,6 +226,11 @@ PROCESSO DE INSCRIÇÃO:
 
 5. Inicie as atividades após a aprovação.
 
+Instruções em vídeo: [Passo a passo, como fazer a inscrição no projeto pelo Sigaa](https://www.youtube.com/watch?v=GNcxK0EYejw).
+
+Sigaa --> Extensão --> Inscrição On-line para Creditação de Extensão --> Buscar por Ações de Extensão --> Título da Ação: ISIS
+
+
 
 ---
 # 8. Agendamento de reunião
